@@ -1,6 +1,6 @@
 # dowload-playlist-mp3-youtube
-Dowload mp3 playlist of videos on youtube
-English subtitle below
+- Dowload mp3 playlist of videos on youtube
+- English subtitle below
 # Baixador de Playlists do YouTube
 
 Este é um simples aplicativo de desktop que permite baixar playlists do YouTube como arquivos MP3 ou vídeos em 360p ou 720p.
