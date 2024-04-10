@@ -1,5 +1,6 @@
 # dowload-playlist-mp3-youtube
 Dowload mp3 playlist of videos on youtube
+English subtitle below
 # Baixador de Playlists do YouTube
 
 Este é um simples aplicativo de desktop que permite baixar playlists do YouTube como arquivos MP3 ou vídeos em 360p ou 720p.
@@ -19,7 +20,7 @@ Este é um simples aplicativo de desktop que permite baixar playlists do YouTube
 
 1. Certifique-se de ter Python 3.x instalado em seu sistema.
 2. Instale as dependências executando `pip install -r requirements.txt`.
-3. Execute o script `youtube_downloader_gui.py`.
+3. Execute o script `main.py`.
 4. Insira o URL da playlist do YouTube.
 5. Escolha o formato (MP3, 360p ou 720p) e o diretório de destino.
 6. Clique em "Baixar Playlist".
@@ -43,7 +44,7 @@ This is a simple desktop application that allows you to download YouTube playlis
 
 1. Make sure you have Python 3.x installed on your system.
 2. Install the dependencies by running `pip install -r requirements.txt`.
-3. Run the script `youtube_downloader_gui.py`.
+3. Run the script `main.py`.
 4. Enter the URL of the YouTube playlist.
 5. Choose the format (MP3, 360p, or 720p) and the destination directory.
 6. Click on "Download Playlist".
